@@ -5,5 +5,5 @@
 ## TODO
 - [x] 4 Baseline algorithm  
 - [x] Nonparametric Dynamic Thresholding Detection Method  
-- [] Build a Dynamic window for detection  
-- [] NAB and Concept Shift dataset for analysis   
+- [ ] Build a Dynamic window for detection  
+- [ ] NAB and Concept Shift dataset for analysis   
