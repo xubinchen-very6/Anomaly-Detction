@@ -1,5 +1,5 @@
 ## Introduction
-暂停目前所有工作来完成ali实习的这篇论文 =x=  
+Concept adaptive anomaly detection with Norparameter Dynamic window method 
 后期会更新详细细节
 
 ## TODO
